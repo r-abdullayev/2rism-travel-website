@@ -4,7 +4,7 @@
 
 This website is intended for showcasing travel destinations, packages, and services. It’s structured to be easily extendable for integration with backend services or deployment as a static site.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **HTML5** – Semantic and accessible structure  
 - **SCSS** – Clean and maintainable styles with variables, nesting, and mixins  
